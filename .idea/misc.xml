@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/99. solo/project/wb_memo/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/drawable/click_btn.xml" value="0.4105" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/layout/activity_memo02.xml" value="0.25" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/layout/fragment_main.xml" value="0.4625" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/layout/fragment_setting.xml" value="0.23125" />
+        <entry key="..\:/99. solo/project/memo/app/src/main/res/menu/bottom_menu.xml" value="0.23020833333333332" />
       </map>
     </option>
   </component>
